@@ -1,4 +1,4 @@
-[![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=cris959&repo=rag-updater-streamlit&countColor=%23ff007f)](https://www.github.com/cris959/rag-updater-streamlit)
+[![Visitor Badge](https://api.visitorbadge.io/api/VisitorHit?user=cris959&repo=spring-ai-rag&countColor=%23ff007f)](https://www.github.com/cris959/spring-ai-rag)
 
 # spring-ai-rag
 
